@@ -1,5 +1,5 @@
 # ala2adf
-# 🛒 Grocery Store App (Flutter + API)
+# 🛒 Grocery Store App 
 
 A modern **Flutter Grocery Store App** that fetches product data from an API and displays it with a clean UI, search functionality, and product details.
 
@@ -55,38 +55,7 @@ https://fakestoreapi.com/products
 
 ---
 
-## 📂 Project Structure
-
-```id="proj1"
-lib/
-│
-├── main.dart
-├── models/
-│   └── product.dart
-│
-├── services/
-│   └── api_service.dart
-│
-└── screens/
-    ├── home_screen.dart
-    └── product_detail_screen.dart
-```
-
-
-
-
-## 📦 Dependencies
-
-Add in `pubspec.yaml`:
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^0.13.6
-
-
-## 🧠 How It Works
+ 🧠 How It Works
 
 * Data is fetched from API using HTTP
 * JSON is converted into Product model
@@ -126,6 +95,44 @@ If you like this project:
 🍴 Fork it
 📢 Share it
 
+
+
+## 📂 Project Structure
+
+```id="proj1"
+lib/
+│
+├── main.dart
+├── models/
+│   └── product.dart
+│
+├── services/
+│   └── api_service.dart
+│
+└── screens/
+    ├── home_screen.dart
+    └── product_detail_screen.dart
+```
+
+
+
+
+## 📦 Dependencies
+
+Add in `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+
+
+
+
+## 📄 License
+
+This project is open-source and free to use.
 ---
 
 ## 📸 Demo
@@ -133,7 +140,3 @@ If you like this project:
 (Add screenshots here)
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use.
