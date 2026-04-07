@@ -72,7 +72,7 @@ lib/
     └── product_detail_screen.dart
 ```
 
----
+
 
 
 ## 📦 Dependencies
@@ -94,7 +94,7 @@ dependencies:
 * Search filters data dynamically
 * Clicking a product opens detail screen
 
----
+
 
 ## 🔄 Currency Conversion
 
