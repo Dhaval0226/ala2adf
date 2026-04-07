@@ -113,23 +113,18 @@ lib/
     ├── home_screen.dart
     └── product_detail_screen.dart
 ```
-
-
-
-
 ## 📦 Dependencies
 
 Add in `pubspec.yaml`:
+
+
 
 ```yaml
 dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.6
-
-
-
-
+```
 ## 📄 License
 
 This project is open-source and free to use.
@@ -140,3 +135,6 @@ This project is open-source and free to use.
 (Add screenshots here)
 
 ---
+
+
+
