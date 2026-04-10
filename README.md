@@ -30,6 +30,15 @@ https://fakestoreapi.com/products
 
 ## 📱 Screens
 
+
+
+
+<img width="311" height="672" alt="Screenshot 2026-04-10 155603" src="https://github.com/user-attachments/assets/229204db-b642-4f93-8407-605ec98b66fb" />
+<img width="305" height="673" alt="Screenshot 2026-04-10 155519" src="https://github.com/user-attachments/assets/cea5e8b2-203f-4793-9d68-7b710398dba2" />
+<img width="303" height="663" alt="Screenshot 2026-04-10 155647" src="https://github.com/user-attachments/assets/33911fe2-4b4e-4eec-ab57-d6f23a05a3c7" />
+<img width="318" height="674" alt="Screenshot 2026-04-10 155721" src="https://github.com/user-attachments/assets/92fb9d81-4d43-4e8f-adf0-7452620781f7" />
+
+
 ### 🏠 Home Screen
 
 * Displays products from API in grid view
@@ -130,16 +139,9 @@ dependencies:
 This project is open-source and free to use.
 ---
 
-## 📸 Demo
+## 📸 DRIVE LINK(SCREEN RECORDING)
+https://drive.google.com/drive/folders/1Id6kK9qTLh97Zvkopi5y91x1EOK6psLm?usp=drive_link
 
-
-
-
-
-<img width="311" height="672" alt="Screenshot 2026-04-10 155603" src="https://github.com/user-attachments/assets/229204db-b642-4f93-8407-605ec98b66fb" />
-<img width="305" height="673" alt="Screenshot 2026-04-10 155519" src="https://github.com/user-attachments/assets/cea5e8b2-203f-4793-9d68-7b710398dba2" />
-<img width="303" height="663" alt="Screenshot 2026-04-10 155647" src="https://github.com/user-attachments/assets/33911fe2-4b4e-4eec-ab57-d6f23a05a3c7" />
-<img width="318" height="674" alt="Screenshot 2026-04-10 155721" src="https://github.com/user-attachments/assets/92fb9d81-4d43-4e8f-adf0-7452620781f7" />
 
 
 
