@@ -42,7 +42,6 @@ https://fakestoreapi.com/products
 ### 🏠 Home Screen
 
 * Displays products from API in grid view
-* Includes search functionality
 
 ### 📄 Product Detail Screen
 
